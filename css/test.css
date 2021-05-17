@@ -1,0 +1,30 @@
+tei-div {
+  background-color: #fce3cc;
+}
+
+tei-head {
+  font-weight: bold;
+  background-color: inherit;
+  color: #1c1c1a;
+  text-align: center;
+}
+
+tei-body {
+  text-decoration: none !important
+}
+
+tei-lg {
+  text-align: center;
+  font-style: italic;
+}
+
+tei-persName {
+  text-decoration: none !important
+  color: black;
+}
+
+tei-p {
+  font-size: 14px;
+  text-indent: inherit;
+  display: block;
+}
